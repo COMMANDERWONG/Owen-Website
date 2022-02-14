@@ -60,9 +60,7 @@ footer {
     font-size: 14px;
     margin-right: -4px;
     }
-    }
-@media screen and (min-width: 615px) {
-    .leftSideBar {
+        .leftSideBar {
     width:20%;
     min-width:115px;
     margin-right:15px;
